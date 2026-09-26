@@ -7,16 +7,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - experiences.qmd
+      - href: research.qmd
+        text: Research & Projects
       - notes.qmd
-
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: darkly
     css: styles.css
-    toc: true
+    toc: false
 
 
 
