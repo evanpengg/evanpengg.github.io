@@ -1,7 +1,10 @@
 ---
-title: "Website"
+title: "Evan Peng"
 ---
 
-This is a Quarto website.
+elpeng@crimson.ua.edu\
+https://www.linkedin.com/in/evanleepeng/
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Student at The University of Alabama\
+&emsp; Bachelors of Science in Physics and Mathematics\
+&emsp; Masters of Arts in Mathematics
