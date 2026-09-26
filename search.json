@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website",
+    "title": "Evan Peng",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     CV\n  \n\n      \nI am a third year undergraduate student pursuing a B.S in physics and mathematics and a M.A in mathematics. My research interests lie in theoretical and mathematical physics. I am fascinated by symmetries and the underlying mathetmaical structure of physical theories, and I to broaden exposure in high energy and condensed matter theory. I plan on pursuing a PhD in theoretical physics."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Evan Peng",
+    "section": "Education",
+    "text": "Education\n\n\nThe University of Alabama\n\nTusaloosa, AL \n\n\nBachelor of Science in Physics and Mathematics\nMaster of Arts in Mathematics\nUnofficial Transcript\n\n\n\nRelevant Coursework:\n\n\n\n\nPhysics: Quantum Mechanics(G), Classical Mechnics(G), Intro General Relativity, Electrodynamics\nMathematics: Measure Theory(G), Group Theory(G), Ring Theory(G), Real Analysis(G), Topology(G), Probability, Statistics, Stochastic Processes(G), Lienar Algebra, Differential Equations\n\nComputation: Machine Learning\n\n\n\n\n(G) indicates graduate level courses"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Evan Peng",
+    "section": "Technical Skills:",
+    "text": "Technical Skills:\n\nComputation: Python(Pytorch, Numpy, Scipy), C/C++, Mathematica, R\nTools: LaTeX, Git, Bash, Zsh, Linux, macOS, Windows\nLanguages: English, Mandarin (Spoken at a native level)"
+  },
+  {
+    "objectID": "index.html#beyond-physics",
+    "href": "index.html#beyond-physics",
+    "title": "Evan Peng",
+    "section": "Beyond Physics:",
+    "text": "Beyond Physics:\nI love photography and filmmaking. Particularly, whenever I am on a trip, I love shooting travel photos on my Canon R10. I am no movie buff by any means, but I had always been interested in the process of movie making. I have a strong admiration for filmmakers who make their visions come to life. I personally love writing and shooting short films.\nI also love to cook unique and new dishes. I grew up eating the Chinese food that my parents made, but when I learned to cook, I learned from the western chefs on the internet. I was so interested by the differences in both the ingredients and techniques between these two different worlds of food, that I fell in love with creating new dishes combining both these worlds."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research and Projects",
+    "section": "",
+    "text": "Dynamical Systems Portrait of the Bounce  in Loop Quantum Cosmology\n\n\n\nLSU Physics and Astronomy REU: Summer 2026\nAdvisor: Dr. Parampreet Singh\nIn this research project, I worked with Dr. Parampreet Singh on a new cosmological model based on Loop Quantum Cosmology (LQC) where the polymer quantization of the gravitational sector is applied to the matter sector.\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn this new model, there exist new “loitering states” which replaces the standard Big bounce in LQC. My project was on performing a Jacobian analysis around the fixed points that make up these “loitering states”.\nI developed background in standard LQC, where I leared the ADM formalism for general relativity, the WDW cannonical quantization of gravity, Ashtekar variables, the holonomy-flux algebra, and polymer quantization.\nThen I worked with the classical effective Hamiltonian which approximates this new cosmological model, deriving the equations of motion and performing the Jacobian analysis on the fixed points. I focused on the stability of the fixed points, during which, we derived a novel equation describing the “loitering time” of the universe around each fixed point.\nI then developed the simulator using SciPy to numerically evolve the system using the classical effective Hamiltonian. Our analytical results were then verified based on the numerical evolution. I presented these results at the Summer Undergradaute Research Fourm at LSU, and I am now currently working on the manuscript to be published.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingAura: AI Voice Coach\n\n\n\nUniversity of Alabama: Fall 2024-Present\nAdvisor: Dr. Yi Lin"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "About this site"
   }
 ]

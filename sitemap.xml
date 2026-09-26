@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://evanpengg.github.io/about.html</loc>
-    <lastmod>2026-04-25T01:51:41.919Z</lastmod>
+    <loc>https://evanpengg.github.io/index.html</loc>
+    <lastmod>2026-09-26T19:03:29.307Z</lastmod>
   </url>
   <url>
-    <loc>https://evanpengg.github.io/index.html</loc>
-    <lastmod>2026-04-25T01:51:41.920Z</lastmod>
+    <loc>https://evanpengg.github.io/research.html</loc>
+    <lastmod>2026-09-26T19:47:38.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://evanpengg.github.io/notes.html</loc>
+    <lastmod>2026-04-29T20:50:49.000Z</lastmod>
   </url>
 </urlset>
