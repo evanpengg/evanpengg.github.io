@@ -39,9 +39,9 @@ I am a third year undergraduate student pursuing a B.S in physics and mathematic
 **Bachelor of Science** in Physics and Mathematics\
 **Master of Arts** in Mathematics
 
-<a href="Peng_Evan_Transcript.pdf" class="btn btn-outline-secondary btn-sm mb-3" target="_blank">Unofficial Transcript</a>
+[Unofficial Transcript](Peng_Evan_Transcript.pdf){.btn .transcript-btn}
 
-<div style="margin-top: -15px;"></div>
+<div style="margin-top: -8px;"></div>
 
 [**Relevant Coursework:**]{style="font-size: 1.1em;"}
 

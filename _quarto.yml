@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "Peng_Evan_CV.pdf"
+    - "Peng_Evan_Transcript.pdf"
 
 website:
   title: "Evan Peng"
