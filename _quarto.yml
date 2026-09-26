@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "Peng_Evan_CV.pdf"
 
 website:
   title: "Evan Peng"
