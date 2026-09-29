@@ -4,18 +4,17 @@ title: "Research and Projects"
 
 ---
 
+::: {.wrap-container}
+![](images/LQC.jpeg){.wrap-image} 
 
-::: {style="float: right; margin-left: 20px; max-width: 40%;"}
-![](images/LQC.jpeg)
-:::
-
-### Dynamical Systems Portrait of the Bounce <br> in Loop Quantum Cosmology
+### Dynamical Systems Portrait of the Bounce in Loop Quantum Cosmology
 <div style="margin-top: -8px;"></div>
 **LSU Physics and Astronomy REU:** Summer 2026\
 **Advisor: Dr. Parampreet Singh**
 
-In this research project, I worked with Dr. Parampreet Singh on a new cosmological model based on Loop Quantum Cosmology (LQC) where the polymer quantization of the gravitational sector is applied to the matter sector. In this new model, there exist new "loitering states" which replaces the standard Big bounce in LQC. My project was on performing a Jacobian analysis around the fixed points that make up these "loitering states". 
+:::
 
+In this research project, I worked with Dr. Parampreet Singh on a new cosmological model based on Loop Quantum Cosmology (LQC) where the polymer quantization of the gravitational sector is applied to the matter sector. In this new model, there exist new "loitering states" which replaces the standard Big bounce in LQC. My project was on performing a Jacobian analysis around the fixed points that make up these "loitering states". 
 
 I developed background in standard LQC, where I leared the ADM formalism for general relativity, the WDW cannonical quantization of gravity, Ashtekar variables, the holonomy-flux algebra, and polymer quantization. 
 
