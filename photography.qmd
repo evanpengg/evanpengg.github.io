@@ -13,15 +13,15 @@ format:
 
 ![](images/China2026/IMG_1451.jpg){group="China2026"}
 
-![](images/China2026/IMG_1375.jpg){group="China2026"}
-
 ![](images/China2026/IMG_2229.jpg){group="China2026"}
 
-![](images/China2026/IMG_2097.jpg){group="China2026"}
+![](images/China2026/IMG_1375.jpg){group="China2026"}
 
 ![](images/China2026/IMG_2452.jpg){group="China2026"}
 
 ![](images/China2026/IMG_1100.jpg){group="China2026"}
+
+![](images/China2026/IMG_2097.jpg){group="China2026"}
 
 ![](images/China2026/IMG_1012.jpg){group="China2026"}
 
@@ -93,5 +93,9 @@ format:
 
 ![](images/China2026/IMG_1074.jpg){group="China2026"}
 :::
+
+<div class="close-gallery-btn" style="font-size: 1.8em;" onclick="const d = this.closest('details'); d.open = false; d.scrollIntoView({behavior: 'smooth', block: 'center'});">
+  &#8593;
+</div>
 
 </details>

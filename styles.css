@@ -118,3 +118,21 @@ details > summary::-webkit-details-marker {
 details[open] summary .artistic-dots span {
   opacity: 0.3;
 }
+
+/* The Close Button at the bottom of the gallery */
+.close-gallery-btn {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 0.85em;
+  color: #888;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease;
+}
+
+.close-gallery-btn:hover {
+  opacity: 0.5;
+}
