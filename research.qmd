@@ -14,7 +14,7 @@ title: "Research and Projects"
 
 :::
 
-In this research project, I worked with Dr. Parampreet Singh on a new cosmological model based on Loop Quantum Cosmology (LQC) where the polymer quantization of the gravitational sector is applied to the matter sector. In this new model, there exist new "loitering states" which replaces the standard Big bounce in LQC. My project was on performing a Jacobian analysis around the fixed points that make up these "loitering states". 
+In this research project, I worked with Dr. Parampreet Singh on a new cosmological model based on Loop Quantum Cosmology (LQC). In this new model, there exist new "loitering states" which replaces the standard Big bounce in LQC. My project was on performing a Jacobian analysis around the fixed points that make up these "loitering states". 
 
 I developed background in standard LQC, where I leared the ADM formalism for general relativity, the WDW cannonical quantization of gravity, Ashtekar variables, the holonomy-flux algebra, and polymer quantization. 
 
