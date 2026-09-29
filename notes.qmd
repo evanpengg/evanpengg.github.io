@@ -11,7 +11,7 @@ listing:
     - title: "A Novel Approach to Teaching Undergraduate Quantum Mechanics"
       description: "Based upon my other paper 'How Operators of Observables Emerge from Continuous Symmetries', this is a manuscript outlining a new struture to teaching an undergraduate quantum mechanics course. This is not the complete full text, but rather serves as an outline for the full text."
       status: WORK IN PROGRESS
-      path: notes/ImprovedQuantumAbridged.pdf
+      #path: notes/ImprovedQuantumAbridged.pdf
 ---
 
 I found that my learning style is through synthesis, thus whenever I want to really understand a subject, I like to create a set of "lecture notes", or a "textbook" to consolidate the knowledge from a course. I have a strong interest in pedagogy, and thus I use this opportunity to develop a better pedagogical structure based upon my personal experience with the course. The notes on this page are a collection of subjects on which I have applied this technique.
