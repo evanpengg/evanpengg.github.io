@@ -12,7 +12,10 @@ website:
         text: Home
       - href: research.qmd
         text: Research & Projects
-      - notes.qmd
+      - href: notes.qmd
+        text: Notes
+      - href: photography.qmd
+        text: Photography
 format:
   html:
     theme:

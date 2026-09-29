@@ -1,0 +1,17 @@
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <% for (const item of items) { %>
+    <li style="margin-bottom: 1.5em;">
+      <a href="<%- item.path %>" style="font-weight: bold; font-size: 1.05em;"><%- item.title %></a>
+      
+      <% if (item.status) { %> 
+        <div style="font-size: 0.85em; opacity: 0.8; margin-top: -16px; margin-bottom: 6px; font-weight: 600; font-style: italic;"><%- item.status %></div> 
+      <% } else if (item.date) { %> 
+        <div style="font-size: 0.85em; opacity: 0.6; margin-top: -16px; margin-bottom: 6px;"><%- item.date %></div> 
+      <% } %>
+      
+      <% if (item.description) { %>
+        <div style="font-size: 0.95em;"><%- item.description %></div>
+      <% } %>
+    </li>
+  <% } %>
+</ul>
