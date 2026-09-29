@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Evan Peng"
-  site-url: "https://yourdomain.com"
+  site-url: "https://evanleepeng.com"
   navbar:
     left:
       - href: index.qmd
