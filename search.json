@@ -39,6 +39,20 @@
     "href": "research.html",
     "title": "Research and Projects",
     "section": "",
-    "text": "Dynamical Systems Portrait of the Bounce  in Loop Quantum Cosmology\n\n\n\nLSU Physics and Astronomy REU: Summer 2026\nAdvisor: Dr. Parampreet Singh\nIn this research project, I worked with Dr. Parampreet Singh on a new cosmological model based on Loop Quantum Cosmology (LQC) where the polymer quantization of the gravitational sector is applied to the matter sector. In this new model, there exist new “loitering states” which replaces the standard Big bounce in LQC. My project was on performing a Jacobian analysis around the fixed points that make up these “loitering states”.\nI developed background in standard LQC, where I leared the ADM formalism for general relativity, the WDW cannonical quantization of gravity, Ashtekar variables, the holonomy-flux algebra, and polymer quantization.\nThen I worked with the classical effective Hamiltonian which approximates this new cosmological model, deriving the equations of motion and performing the Jacobian analysis on the fixed points. I focused on the stability of the fixed points, during which, we derived a novel equation describing the “loitering time” of the universe around each fixed point.\nI then developed the simulator using SciPy to numerically evolve the system using the classical effective Hamiltonian. Our analytical results were then verified based on the numerical evolution. I presented these results at the Summer Undergradaute Research Fourm at LSU, and I am now currently working on the manuscript to be published.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingAura: AI Voice Coach\n\n\n\nUniversity of Alabama: Fall 2024-Present\nAdvisor: Dr. Yi Lin"
+    "text": "Dynamical Systems Portrait of the Bounce in Loop Quantum Cosmology\n\n\n\nLSU Physics and Astronomy REU: Summer 2026\nAdvisor: Dr. Parampreet Singh\n\n\nIn this research project, I worked with Dr. Parampreet Singh on a new cosmological model based on Loop Quantum Cosmology (LQC) where the polymer quantization of the gravitational sector is applied to the matter sector. In this new model, there exist new “loitering states” which replaces the standard Big bounce in LQC. My project was on performing a Jacobian analysis around the fixed points that make up these “loitering states”.\nI developed background in standard LQC, where I leared the ADM formalism for general relativity, the WDW cannonical quantization of gravity, Ashtekar variables, the holonomy-flux algebra, and polymer quantization.\nThen I worked with the classical effective Hamiltonian which approximates this new cosmological model, deriving the equations of motion and performing the Jacobian analysis on the fixed points. I focused on the stability of the fixed points, during which, we derived a novel equation describing the “loitering time” of the universe around each fixed point.\nI then developed the simulator using SciPy to numerically evolve the system using the classical effective Hamiltonian. Our analytical results were then verified based on the numerical evolution. I presented these results at the Summer Undergradaute Research Fourm at LSU, and I am now currently working on the manuscript to be published.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSingAura: AI Voice Coach\n\n\n\nUniversity of Alabama: Fall 2024-Present\nAdvisor: Dr. Yi Lin"
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "↑"
+  },
+  {
+    "objectID": "photography.html#china-some-france-summer-2026",
+    "href": "photography.html#china-some-france-summer-2026",
+    "title": "Photography",
+    "section": "",
+    "text": "↑"
   }
 ]
